@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://heeranshhh.github.io/greet-app/static/css/main.073c9b0a.css",
+    "main.js": "https://heeranshhh.github.io/greet-app/static/js/main.03ec674d.js",
+    "static/js/787.fe34f7e0.chunk.js": "https://heeranshhh.github.io/greet-app/static/js/787.fe34f7e0.chunk.js",
+    "static/media/logo.svg": "https://heeranshhh.github.io/greet-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://heeranshhh.github.io/greet-app/index.html",
+    "main.073c9b0a.css.map": "https://heeranshhh.github.io/greet-app/static/css/main.073c9b0a.css.map",
+    "main.03ec674d.js.map": "https://heeranshhh.github.io/greet-app/static/js/main.03ec674d.js.map",
+    "787.fe34f7e0.chunk.js.map": "https://heeranshhh.github.io/greet-app/static/js/787.fe34f7e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.03ec674d.js"
+  ]
+}
